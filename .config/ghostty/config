@@ -14,6 +14,9 @@ confirm-close-surface=false
 resize-overlay = never
 gtk-toolbar-style = flat
 
+# Notifications
+app-notifications = no-clipboard-copy
+
 # Cursor styling
 cursor-style = "block"
 cursor-style-blink = false
