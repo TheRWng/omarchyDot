@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "778644e3fcec09d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6454010951946e7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d888cc89bf8dbbf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sync/Todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Todo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b286def67466168",
+    "type": "split",
+    "children": [
+      {
+        "id": "421429eb65f88d05",
+        "type": "tabs",
+        "dimension": 78.4692417739628,
+        "children": [
+          {
+            "id": "3ae1435077edd54c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae1f6e27506d8921",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fba7a5feb2dc82b6",
+        "type": "tabs",
+        "dimension": 21.530758226037197,
+        "children": [
+          {
+            "id": "359c7364382ab658",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "adce295834d655ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "22e500f0d5e98ec0",
+        "type": "tabs",
+        "dimension": 74.09722222222223,
+        "children": [
+          {
+            "id": "806f64b19cf68ca1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sync/Todo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Todo"
+            }
+          },
+          {
+            "id": "e5430c61b83f427a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e44193a1c079601f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d22ae0e08b5a5a49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sync/Todo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Todo"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "18d630012ad37b82",
+        "type": "tabs",
+        "dimension": 25.90277777777778,
+        "children": [
+          {
+            "id": "6659591011318f20",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "d888cc89bf8dbbf4",
+  "lastOpenFiles": [
+    "sync/BusinessProcessAnalysis&Solutioning/Week 5.md",
+    "sync/BusinessProcessAnalysis&Solutioning/Todo.md",
+    "sync/Todo.md",
+    "sync/IDP/todo.md",
+    "sync/WAD2/Playwright commands.md",
+    "sync/zzz/secret sauce.md",
+    "sync/WAD2/Todo.md",
+    "sync/zzz/Blacklist.md",
+    "sync/Gym/BF table.md",
+    "sync/Gym/Weight.md",
+    "Welcome.md",
+    "sync/zzz/pictures/Pasted image 20250926162211.png",
+    "sync/zzz/pictures/Pasted image 20250926161855.png",
+    "sync/zzz/pictures/Pasted image 20250926161513.png",
+    "sync/zzz/pictures/Pasted image 20250926160736.png",
+    "sync/zzz/pictures/Pasted image 20250926151903.png",
+    "sync/zzz/pictures",
+    "sync/zzz/obsidian.md",
+    "sync/zzz",
+    "sync/misc/Todo.md",
+    "sync/misc",
+    "sync/WAD2/Week6_Vue.js.md",
+    "sync/WAD2/Week5_JSON_Async.md",
+    "sync/WAD2/Week4_DOMS_ClassList.md",
+    "sync/WAD2/Week4_DOMS.md",
+    "sync/WAD2/Week3b_Javascript.md",
+    "sync/WAD2/Week3_Bootstrap.md",
+    "sync/WAD2/Week2_CSS.md",
+    "sync/WAD2",
+    "sync/Teaching Assistant/Todo.md",
+    "sync/Teaching Assistant",
+    "sync/Modeling&DataAnalytics/Week 6.md",
+    "sync/Modeling&DataAnalytics/Week 5.md",
+    "sync/Modeling&DataAnalytics/Week 4.md",
+    "sync/Modeling&DataAnalytics/Week 3.md",
+    "sync/Modeling&DataAnalytics/Todo.md",
+    "sync/Modeling&DataAnalytics",
+    "sync/IDP",
+    "sync/Gym",
+    "sync/BusinessProcessAnalysis&Solutioning",
+    "sync"
+  ]
+}
