@@ -4,7 +4,7 @@ set -e
 packages=(
     # caligula
     gitleaks
-    # stow
+    stow
     telegram-desktop
     yazi
     # zsh
