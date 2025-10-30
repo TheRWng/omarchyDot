@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6454010951946e7b",
+        "id": "6076910cd57ffe4e",
         "type": "tabs",
         "children": [
           {
-            "id": "d888cc89bf8dbbf4",
+            "id": "5eb6e24f94abb71c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 303.5
   },
   "right": {
     "id": "adce295834d655ca",
@@ -190,13 +190,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d888cc89bf8dbbf4",
+  "active": "5eb6e24f94abb71c",
   "lastOpenFiles": [
+    "sync/Todo.md",
+    "Screenshot 2025-09-02 at 15.50.14.jpg.md",
+    "sync/Modeling&DataAnalytics/Week 3.md",
+    "sync/zzz/Blacklist.md",
+    "sync/ExamTracker.md",
+    "sync/IDP/Exam.md",
     "sync/zzz/pictures/Pasted image 20250926162211.png",
     "sync/zzz/pictures/Screenshot 2025-10-27 at 17.39.11.jpg",
     "sync/zzz/pictures/Pasted image 20250926151903.png",
-    "sync/ExamTracker.md",
-    "sync/Todo.md",
     "sync/Modeling&DataAnalytics/Week 6.md",
     "sync/ExamTrack.md",
     "sync/Modeling&DataAnalytics/Todo.md",
@@ -218,9 +222,6 @@
     "sync/IDP/todo.md",
     "sync/WAD2/Playwright commands.md",
     "sync/zzz/secret sauce.md",
-    "sync/zzz/Blacklist.md",
-    "sync/Gym/BF table.md",
-    "sync/Gym/Weight.md",
     "sync/zzz/pictures/Pasted image 20250926161855.png",
     "sync/zzz/pictures/Pasted image 20250926161513.png",
     "sync/zzz/pictures/Pasted image 20250926160736.png",
