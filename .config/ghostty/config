@@ -27,3 +27,6 @@ keybind = control+insert=copy_to_clipboard
 
 # SSH session terminfo
 shell-integration-features = ssh-env, no-cursor, no-title
+
+# Slowdown mouse scrolling
+mouse-scroll-multiplier = 0.95
