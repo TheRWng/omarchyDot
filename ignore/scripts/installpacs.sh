@@ -7,6 +7,7 @@ packages=(
     stow
     telegram-desktop
     yazi
+    ncdu
     # zsh
 )
 
