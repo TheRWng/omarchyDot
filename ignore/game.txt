@@ -1,6 +1,6 @@
 Dota 2
   1600dpi
-  LD_PRELOAD="" gamescope -w 2560 -h 1440 -S integer -f -r 144.0 --force-grab-cursor --immediate-flips -- %command% -novid
+  LD_PRELOAD="" %command% -novid
 
 CS 2
   1.25sens 800dpi
