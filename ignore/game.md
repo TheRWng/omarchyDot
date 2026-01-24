@@ -5,4 +5,4 @@
     1.25sens 800dpi
 
 ## Launch Option:
-  LD_PRELOAD="" %command% -novid
+  LD_PRELOAD="" %command% -novid -high
