@@ -2,8 +2,8 @@
 set -e
 
 packages=(
-    # caligula
-    gamescope
+    caligula
+    # gamescope
     gitleaks
     stow
     telegram-desktop
