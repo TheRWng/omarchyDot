@@ -11,3 +11,5 @@ alias ls='eza -alh --group-directories-first --icons=auto'
 alias lst="eza --all --tree --level=2 --color=always --icons=always --no-user --no-filesize"
 alias scanleaks='gitleaks detect --source . -v'
 alias unstow='stow -D'
+
+. "$HOME/.local/share/../bin/env"
