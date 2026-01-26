@@ -2,7 +2,7 @@
 set -e
 
 packages=(
-    caligula
+    # caligula
     # gamescope
     gitleaks
     stow
