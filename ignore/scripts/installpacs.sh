@@ -4,6 +4,7 @@ set -e
 packages=(
     # caligula
     # dmidecode
+    # dosfstools
     # gamescope
     gitleaks
     stow
