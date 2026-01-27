@@ -3,6 +3,7 @@ set -e
 
 packages=(
     # caligula
+    dmidecode
     # gamescope
     gitleaks
     stow
