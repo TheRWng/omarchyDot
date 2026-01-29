@@ -7,10 +7,11 @@ packages=(
     # dosfstools
     # gamescope
     gitleaks
+    steam
     stow
     telegram-desktop
     yazi
-    ncdu
+    # ncdu
     # zsh
 )
 
