@@ -1,8 +1,9 @@
-## Sensitivity
-    Dota 2
-        1600dpi
-    CS 2
-        1.25sens 800dpi
+## DPI: `1600`
+## Launch Option: `LD_PRELOAD="" %command% -novid -high`
 
-## Launch Option:
-    LD_PRELOAD="" %command% -novid -high
+### Settings
+
+#### CS2
+    Sensitivity: 0.6
+    rate: 1000000
+    viewmodel_presetpos 2
