@@ -5,7 +5,7 @@ Wants=network-online.target
 
 [Service]
 Type=oneshot
-ExecStart=/sbin/iw dev wlan0 set power_save off
+ExecStart=/bin/bash -c "sleep 2; /sbin/iw dev wlan0 set power_save off"
 RemainAfterExit=yes
 
 [Install]
