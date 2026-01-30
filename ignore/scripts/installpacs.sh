@@ -7,6 +7,7 @@ packages=(
     # dosfstools
     # gamescope
     gitleaks
+    # protonup-qt   (USE YAY)
     steam
     stow
     telegram-desktop
