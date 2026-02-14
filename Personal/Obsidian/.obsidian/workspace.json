@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "786954909bff3327",
+        "id": "b5540739ad67ceba",
         "type": "tabs",
         "children": [
           {
-            "id": "ff48bbc4f946cbab",
+            "id": "0a95ead9e517d5ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sync/Todo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Todo"
             }
           }
         ]
@@ -75,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "adce295834d655ca",
@@ -187,8 +190,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ff48bbc4f946cbab",
+  "active": "0a95ead9e517d5ba",
   "lastOpenFiles": [
+    "sync/Uni/Semester_4/DBTT/Todo.md",
+    "sync/Todo.md",
     "sync/Uni/Semester_4/DBTT/Student-led_Discussion.md",
     "sync/Uni/Semester_4/AIH/week_5.md",
     "sync/Uni/Semester_4/DBTT/Group_Proj.md",
@@ -200,7 +205,6 @@
     "sync/Uni/Semester_4/ESD/Revision/Revision_week3.md",
     "sync/Uni/Semester_4/AF/quiz.md",
     "sync/Headphones.md",
-    "sync/Todo.md",
     "sync/Uni/Semester_4/DBTT/Graded.md",
     "sync/Prac.md",
     "sync/Uni/Semester_4/ESD/Todo.md",
@@ -214,7 +218,6 @@
     "sync/Uni/Semester_4/AIH/week_3.md",
     "sync/Uni/Semester_4/AIH/Todo.md",
     "sync/Uni/Semester_4/AF/Todo.md",
-    "sync/Uni/Semester_4/AF/pandas_notes.md",
     "sync/zzz",
     "sync/misc",
     "sync/Uni/Semester_4/ESM/Reflections",
