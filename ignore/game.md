@@ -1,8 +1,5 @@
-## Launch Option: `-novid`
-
-### Settings
-
 #### CS2
+    Launch Options: -novid -fullscreen -freq 144
     Sensitivity: 1.25 800dpi
     rate: 1000000
     viewmodel_presetpos 2
