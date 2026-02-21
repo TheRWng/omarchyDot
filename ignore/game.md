@@ -7,6 +7,6 @@
     CSGO-CPZBW-FNf75-bdjVP-nHBWr-EypxA
 
 #### Deadlock
-    Sensitivity: 2
+    Sensitivity: 0.6125
     Launch Options: PROTON_HIDE_NVIDIA_GPU=1 %command% -novid -fullscreen -freq 144
     Proton: GE-proton
