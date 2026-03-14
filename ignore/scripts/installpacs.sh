@@ -8,8 +8,8 @@ packages=(
     # gamescope
     gitleaks
     # protonup-qt   (USE YAY)
-    perl-image-exiftool
-    steam
+    # perl-image-exiftool
+    # steam
     stow
     telegram-desktop
     yazi
