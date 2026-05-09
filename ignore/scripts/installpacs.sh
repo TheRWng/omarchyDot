@@ -9,6 +9,7 @@ packages=(
     gitleaks
     # protonup-qt   (USE YAY)
     # perl-image-exiftool
+    scx-scheds
     # steam
     stow
     telegram-desktop
