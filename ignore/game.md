@@ -1,5 +1,5 @@
 #### CS2
-    Sensitivity: 1.25 800dpi
+    Sensitivity: 1.23 800dpi
     Launch Options: LD_PRELOAD="" gamemoderun %command% -threads 7 +r_dynamic 0 -freq 144 -fullscreen
 
 #### Deadlock
