@@ -2,5 +2,5 @@
     Launch Options: LD_PRELOAD="" gamemoderun %command% -threads 7 +r_dynamic 0 -freq 144 -fullscreen
 
 #### Deadlock
-    Launch Options: LD_PRELOAD="" PROTON_HIDE_NVIDIA_GPU=1 gamemoderun %command% -threads 7 +citadel_unit_status_use_new true -freq 144 -fullscreen
+    Launch Options: LD_PRELOAD="" gamemoderun %command% -threads 7 +citadel_unit_status_use_new true -freq 144 -fullscreen
     Proton: GE-proton
